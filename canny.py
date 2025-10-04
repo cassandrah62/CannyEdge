@@ -1,6 +1,5 @@
 # Canny Edge Detection Algorithm
 # Cassandra Hopkins
-# MTE 203
 
 # Imports
 import numpy as np
